@@ -1,0 +1,11 @@
+tools:
+  jdk:
+    - 8
+  maven:
+    - 3.3.9
+
+flows:
+   master:
+   - mvn clean package -B
+   pr:
+   - call: master
