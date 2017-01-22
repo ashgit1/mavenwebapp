@@ -104,7 +104,7 @@
 	</div >
 
 	<div class="container">
-		<footer> Copyright &copy; ash-devops-guru.com </footer>
+		<footer> Copyright &copy; ashu-devops-guru.com </footer>
 	</div>
 
 </body>
